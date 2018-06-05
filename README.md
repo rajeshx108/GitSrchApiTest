@@ -1,1 +1,1 @@
-Hello World
+This is a test automation framework to test GitSearch API. I am only using GET for this practice, however, I have also setup for POST in the utitly. You should be able to add PUT and DELETE in the sae manner if you have a need. You can use the framework to test any tother Rest/Restful apis with soe chnages. You need to change the baseURI, path, and the endpoints. After that change your query parameters.
