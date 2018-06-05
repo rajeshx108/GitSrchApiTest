@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SmokeTest Suite]">
+  <test name="Git Search API Test(failed)">
+    <classes>
+      <class name="com.git.test.gitapi.GetApiTest">
+        <methods>
+          <include name="verifySearchRepositoryByLanguage"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.git.test.gitapi.GetApiTest -->
+    </classes>
+  </test> <!-- Git Search API Test(failed) -->
+</suite> <!-- Failed suite [SmokeTest Suite] -->

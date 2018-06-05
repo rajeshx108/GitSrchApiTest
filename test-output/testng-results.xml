@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12241" started-at="2018-06-05T20:58:31Z" finished-at="2018-06-05T20:58:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12241" started-at="2018-06-05T20:58:31Z" finished-at="2018-06-05T20:58:43Z">
+      <class name="com.git.test.gitapi.GetApiTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="setup" is-config="true" duration-ms="462" started-at="2018-06-05T15:58:31Z" finished-at="2018-06-05T15:58:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyCallToSearchRepo()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="verifyCallToSearchRepo" duration-ms="1744" started-at="2018-06-05T15:58:31Z" finished-at="2018-06-05T15:58:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCallToSearchRepo -->
+        <test-method status="PASS" signature="verifySearchRepositoryByLanguage()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="verifySearchRepositoryByLanguage" duration-ms="1644" started-at="2018-06-05T15:58:33Z" finished-at="2018-06-05T15:58:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchRepositoryByLanguage -->
+        <test-method status="PASS" signature="verifySearchRepositoryByPushedDate()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="verifySearchRepositoryByPushedDate" duration-ms="1304" started-at="2018-06-05T15:58:34Z" finished-at="2018-06-05T15:58:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchRepositoryByPushedDate -->
+        <test-method status="PASS" signature="verifySearchRepositoryBySizes()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="verifySearchRepositoryBySizes" duration-ms="762" started-at="2018-06-05T15:58:36Z" finished-at="2018-06-05T15:58:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchRepositoryBySizes -->
+        <test-method status="PASS" signature="verifySearchRepositoryByTopic()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="verifySearchRepositoryByTopic" duration-ms="1835" started-at="2018-06-05T15:58:37Z" finished-at="2018-06-05T15:58:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchRepositoryByTopic -->
+        <test-method status="PASS" signature="verifySearchRepositoryByUser()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="verifySearchRepositoryByUser" duration-ms="1121" started-at="2018-06-05T15:58:38Z" finished-at="2018-06-05T15:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchRepositoryByUser -->
+        <test-method status="PASS" signature="verifySearchRepositorySortFeature()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="verifySearchRepositorySortFeature" duration-ms="543" started-at="2018-06-05T15:58:40Z" finished-at="2018-06-05T15:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchRepositorySortFeature -->
+        <test-method status="PASS" signature="verifySearchRepositoryUsingCreatedDate()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="verifySearchRepositoryUsingCreatedDate" duration-ms="1164" started-at="2018-06-05T15:58:40Z" finished-at="2018-06-05T15:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchRepositoryUsingCreatedDate -->
+        <test-method status="PASS" signature="verifySearchRepositoryUsingLicenseKeyword()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="verifySearchRepositoryUsingLicenseKeyword" duration-ms="1152" started-at="2018-06-05T15:58:41Z" finished-at="2018-06-05T15:58:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchRepositoryUsingLicenseKeyword -->
+        <test-method status="PASS" signature="verifySearchRepositoryUsingPagination()[pri:0, instance:com.git.test.gitapi.GetApiTest@224edc67]" name="verifySearchRepositoryUsingPagination" duration-ms="480" started-at="2018-06-05T15:58:42Z" finished-at="2018-06-05T15:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchRepositoryUsingPagination -->
+      </class> <!-- com.git.test.gitapi.GetApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
